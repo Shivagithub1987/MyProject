@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E025-6797
+
+ Directory of C:\Users\shivavelde\Desktop\MyProject
+
+30-12-2019  22:04    <DIR>          .
+30-12-2019  22:04    <DIR>          ..
+30-12-2019  22:04                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  69,480,685,568 bytes free
